@@ -16,8 +16,18 @@ README
 ****
 ## 目录
 * [第一章:Java多线程技能](/chapter1/src/test/Test1.java)
-    *
+    * 使用多线程，启动一个多线程的几种方式
+    * 线程的随机性
+    * 实例变量与线程安全
+    * 留意i——与System.out.println（）的异常
+    * currentThread()
+    * start()和run()
 * [第二章:对象及变量的并发访问](/chapter2/src/test/Test1.java)
+    * [线程api](chapter1/src/test/Test2.java)
+        * isAlive()
+	* sleep()  
+	* interrupt()与isInterrupted()
+	*
 * [第三章:线程间通信](/chapter3/src/test/Test1.java)
 * [第四章:Lock的使用](/chapter4/src/test/Test1.java)
 * [第五章:定时器Timer](/chapter5/src/test/Test1.java)
