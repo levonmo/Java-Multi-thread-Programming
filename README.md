@@ -15,7 +15,7 @@ README
 
 ****
 ## 目录
-* [第一章:Java多线程技能](/chapter1/src/test/Test1.java) 
+* [第一章:Java多线程技能](/chapter1/src/test/Test1.java)
     * 使用多线程，启动一个多线程的几种方式
     * 线程的随机性
     * 实例变量与线程安全
