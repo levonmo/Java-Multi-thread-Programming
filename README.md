@@ -16,6 +16,12 @@ README
 ****
 ## 目录
 * [第一章:Java多线程技能](/chapter1/src/test/Test1.java)
+* [第二章:对象及变量的并发访问](/chapter2/src/test/Test1.java)
+* [第三章:线程间通信](/chapter3/src/test/Test1.java)
+* [第四章:Lock的使用](/chapter4/src/test/Test1.java)
+* [第五章:定时器Timer](/chapter5/src/test/Test1.java)
+* [第六章:单例模式与多线程](/chapter6/src/test/Test1.java)
+* [第七章:拾遗增补](/chapter7/src/test/Test1.java)
 * [标题](#标题)
 * [文本](#文本)
     * 普通文本
