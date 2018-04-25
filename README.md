@@ -9,6 +9,8 @@ README
 |Author|龙|
 |---|---
 |E-mail|741321320@qq.com
+|website|http://www.mowenlong.com
+|csdn|https://blog.csdn.net/weixin_38104426
 
 
 ****
