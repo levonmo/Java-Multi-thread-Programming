@@ -1,8 +1,0 @@
-Lock的使用
-本章主要是介绍使用java5中Lock对象也能实现同步的效果，而且在使用上更加方便
-本章主要着重掌握2个知识点
-	1.ReentrantLock类的使用
-	2.ReentrantReadWriteLock类的使用
-
-	4.1使用ReentrantLock类，在java多线程中，可以使用syncchronized关键字来实现线程之间同步互斥，但在JDK1.5中新增加了ReentrantLock类
-		也能达到同样的效果，并且在扩张功能上也更加强大，比如具有嗅探丶多路分支通知等功能，而且在使用上也比syncchronized更加灵活。
