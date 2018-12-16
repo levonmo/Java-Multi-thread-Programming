@@ -3,6 +3,14 @@ README
 《java多线程编程核心技术》笔记  
 这本书的demo很多，讲的比较清晰，容易理解，缺点就是感觉有很多内容重复，重重复复讲一个东西
 看书的笔记
+* 目录下面有超链接可以直接点进去
+* 第一章: https://github.com/mowenlong/Java-Multi-thread-Programming/blob/master/chapter1/src/test/Test1.java
+* 第二章: https://github.com/mowenlong/Java-Multi-thread-Programming/blob/master/chapter2/src/test/Test1.java
+* 第一章: https://github.com/mowenlong/Java-Multi-thread-Programming/blob/master/chapter3/src/test/Test1.java
+* 第一章: https://github.com/mowenlong/Java-Multi-thread-Programming/blob/master/chapter4/src/test/Test1.java
+* 第一章: https://github.com/mowenlong/Java-Multi-thread-Programming/blob/master/chapter5/src/test/Test1.java
+* 第一章: https://github.com/mowenlong/Java-Multi-thread-Programming/blob/master/chapter6/src/test/Test1.java
+* 第一章: https://github.com/mowenlong/Java-Multi-thread-Programming/blob/master/chapter7/src/test/Test1.java
 
 ****
 	
