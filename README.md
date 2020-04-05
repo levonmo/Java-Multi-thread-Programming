@@ -13,12 +13,6 @@ README
 * 第七章: https://github.com/mowenlong/Java-Multi-thread-Programming/blob/master/chapter7/src/test/Test1.java
 
 ****
-	
-|Author|龙|
-|---|---
-|E-mail|741321320@qq.com
-|Website|http://www.mowenlong.com
-|CSDN|https://blog.csdn.net/weixin_38104426
 
 
 ****
